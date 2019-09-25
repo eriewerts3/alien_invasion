@@ -1,6 +1,6 @@
 import sys
 
-import pygame
+import pygame #This is pygame
 
 class AlienInvasion:
 	"""Overall class to mannage game assets and behavior."""
